@@ -1,4 +1,3 @@
-# luv
 Team name: Luv
 
 Total mark: 19.4 / 22.0
